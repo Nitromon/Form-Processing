@@ -1,2 +1,13 @@
 # Form-Processing
-A fun computer vision assignment. Find the handwritten numbers in the form, and identify them. 87% accuracy for now.
+A fun computer vision assignment.
+Problem Statement: Find the handwritten numbers in the form, and identify them.
+Achieved 87% accuracy for now.
+
+# How to use:
+Just run all cells in the Jupyter Notebook (.ipynb file in root directory)
+
+# Options:
+By default `save_debug_images` and `view_debug_images` is set to 1.
+Change their values to 0 if needed in the 1st cell.
+
+Can change image file as well by adding another form of same layout [Untested]
